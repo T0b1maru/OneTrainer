@@ -2,7 +2,7 @@
 
 set -e
 
-source "${BASH_SOURCE[0]%/*}/lib.include.sh"
+source "./lib.include.sh"
 
 prepare_runtime_environment
 
